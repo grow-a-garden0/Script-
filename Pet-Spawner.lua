@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowAGarden-1/Scripts/refs/heads/main/5d3585fbc76c6524748a4be1e106ff7d.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blank2xp/Garden/refs/heads/main/175aab639968b40068ecba071a272a64.txt"))()
